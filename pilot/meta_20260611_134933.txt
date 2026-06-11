@@ -1,0 +1,7 @@
+start:      Thu Jun 11 13:49:33 CST 2026
+kernel:     6.12.23-android16-5-g16e473de48a3-abogki462654244-4k
+MemTotal:   15363388 kB
+swappiness: 100
+zram size:  17179869184
+zram algo:  lzo [lzo-rle] lz4 zstd 
+page size:  4096
